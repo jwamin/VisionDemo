@@ -14,6 +14,7 @@
 		3D24BBCF1F742A2900A33E96 /* Mail.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D24BBCE1F742A2900A33E96 /* Mail.storyboard */; };
 		3D24BBD11F74454800A33E96 /* MobileNet.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 3D24BBD01F7444A300A33E96 /* MobileNet.mlmodel */; };
 		3D24BBD31F74592500A33E96 /* CGImagePropertyOrientation+UIImageOrientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D24BBD21F74592500A33E96 /* CGImagePropertyOrientation+UIImageOrientation.swift */; };
+		3D24BBD51F74654700A33E96 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3D24BBD41F74654700A33E96 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3D24BBCE1F742A2900A33E96 /* Mail.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Mail.storyboard; sourceTree = "<group>"; };
 		3D24BBD01F7444A300A33E96 /* MobileNet.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MobileNet.mlmodel; sourceTree = "<group>"; };
 		3D24BBD21F74592500A33E96 /* CGImagePropertyOrientation+UIImageOrientation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGImagePropertyOrientation+UIImageOrientation.swift"; sourceTree = "<group>"; };
+		3D24BBD41F74654700A33E96 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		3D24BBB01F74177000A33E96 = {
 			isa = PBXGroup;
 			children = (
+				3D24BBD41F74654700A33E96 /* README.md */,
 				3D24BBBB1F74177000A33E96 /* ARML */,
 				3D24BBBA1F74177000A33E96 /* Products */,
 			);
@@ -131,6 +134,7 @@
 			files = (
 				3D24BBCF1F742A2900A33E96 /* Mail.storyboard in Resources */,
 				3D24BBC71F74177000A33E96 /* LaunchScreen.storyboard in Resources */,
+				3D24BBD51F74654700A33E96 /* README.md in Resources */,
 				3D24BBC41F74177000A33E96 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
